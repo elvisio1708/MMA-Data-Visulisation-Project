@@ -33,11 +33,11 @@ Due to browser security restrictions on loading local files (like `.csv` and `.j
 
 ## 📁 Project Structure
 
-├── MMA Dashboard.html # Main interactive dashboard
-├── geocoded_data.csv # Dataset with location-enhanced fighter data
-├── mmaData.csv # Original MMA stats dataset
-├── world_countries.json # GeoJSON map boundaries
-└── MMAProject.pdf # PowerBI Representation of the Data
+- MMA Dashboard.html # Main interactive dashboard
+- geocoded_data.csv # Dataset with location-enhanced fighter data
+- mmaData.csv # Original MMA stats dataset
+- world_countries.json # GeoJSON map boundaries
+- MMAProject.pdf # PowerBI Representation of the Data
 
 ## 👤 Author
 
